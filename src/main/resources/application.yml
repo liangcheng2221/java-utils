@@ -1,0 +1,7 @@
+javaUtils:
+  mail:
+    user: xxx # TODO 填写对应的邮箱
+    password: xxx # TODO 填写对应的秘钥
+  jwt:
+    ttl: xxx # TODO 毫秒值
+    secret: xxx # TODO 秘钥
